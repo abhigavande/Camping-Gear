@@ -1,2 +1,2 @@
 # Camping Gear 
-this is demo project
+this is Camping Gear project made by using html css js
