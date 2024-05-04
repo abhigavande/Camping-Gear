@@ -1,2 +1,2 @@
-# demo1
+# Camping Gear 
 this is demo project
